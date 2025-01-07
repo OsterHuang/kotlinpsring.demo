@@ -3,11 +3,20 @@
 主要參考官網文件 https://spring.io/guides/tutorials/spring-boot-kotlin
 
 ### 另工具產生的官方文件可參考 [HELP.md](./HELP.md)
-建立工具初始選用
 
+### 進入此專案前須先有
+Spring認識，此文非Spring教學，目的為讓Java工程轉為使用kotlin
+* Spring Boot
+* Spring Web & MVC
+* Spring component IOC
+  * 常見controller, service, repository, entity
+* JPA
 
+其他
+* kotlin
+* gradle
 
-此專案包含如下主題
+# 此專案包含如下主題
 * 建立專案
   * gradle
   * spring-boot
