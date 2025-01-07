@@ -28,6 +28,7 @@ Spring認識，此文非Spring教學，目的為讓Java工程轉為使用kotlin
   * 建立範例資料表格與資料
   * 產生對應的entity與repository
   * 對應controller與輸出時PO轉Vo
+  * 程式碼對應如文件 [01-readme.md](docs/01-run-spring-and-read-db/01-readme.md)
 > mustache還是建議使用前後端分隔框架
 * 使用mustache template框架
   * 使用controller advice建立Layout框架
