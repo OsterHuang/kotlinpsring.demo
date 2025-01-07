@@ -24,6 +24,7 @@ Spring認識，此文非Spring教學，目的為讓Java工程轉為使用kotlin
   * spring-jpa
   * postgresSQL driver
 * 與postgresSQL資料庫互動
+  * 啟動db docker [dbinit/readme.md](dbinit/readme.md)
   * 建立範例資料表格與資料
   * 產生對應的entity與repository
   * 對應controller與輸出時PO轉Vo
